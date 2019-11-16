@@ -26,7 +26,7 @@
 
 代码开源：[https://github.com/python1314/blog-web](https://github.com/python1314/blog-web)
 
-### 派学日记([https://www.python1314.com/daily/](https://www.python1314.com/daily/))
+### 派学日记([https://m3w.cn/paixueriji](https://m3w.cn/paixueriji))
 
 派学日记 - 每天精选阅读技术博客文章。
 
